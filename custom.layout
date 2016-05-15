@@ -1,0 +1,1 @@
+\format[GetOpenOfficeType]{\bibtextype},"\bibtexkey","{\author}","\format[RemoveBrackets,RemoveWhitespace]{\title}","\format[Replace(\n, )]{\abstract}","\year",
